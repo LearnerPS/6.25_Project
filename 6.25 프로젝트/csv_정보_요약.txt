@@ -1,0 +1,32 @@
+
+un군 참전 및 피해 정보 / 나라명, 인원수, 피해수, 전사, 부상, 실종, 포로
+
+유해발굴 / 기준일자, 국군, un군, 북한군, 중공군
+
+국방부 6.25 전쟁정보 / 제목(전투명), 시기, 지역, 인물
+
+##############
+
+bombs / 폭탄넘버, 작전날짜, 위도, 경도, 폭탄 파운드
+
+##############
+
+bombing-map-korean-war.ipynb / bombs의 정보+비행기타입정보
+폭탄이 투하된 위도와 경도를 노란점으로 찍어 검은색 지도 위에 표시
+
+bombing-map-korean-war-checkpoint.ipynb / 위와 같은 내용
+
+THOR Korean Bombing Operations (Exeter) / 위의 분석에 사용된 csv 데이터
+bombs보다 더 복잡한 내용
+
+##############
+
+GeoData / 날짜, 위도, 경도
+
+KoreanWarOps / 비행기타입, 탄약수, 발사수, 명중수, 유닛그룹, 날짜, 폭탄파운드합산
+
+##############
+
+파이참 폴더
+
+web_hello, web_hello_blueprint 가 bus 정보를 사용한 프로젝트로 보임
